@@ -1,0 +1,80 @@
+site_name: "RDM Onboarding"
+site_description: "Onboarding guide to Research Data Management for anyone getting started with the topic."
+site_url: "https://mvoelken-hub.github.io/RDM-Website/"
+
+repo_url: "https://github.com/mvoelken-hub/RDM-Website"
+repo_name: "mvoelken-hub/RDM-Website"
+edit_uri: "edit/main/docs/"
+
+docs_dir: docs
+
+theme:
+  name: material
+  language: en
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.indexes
+    - navigation.top
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tracking
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - content.tabs.link
+    - content.action.edit
+    - toc.follow
+
+plugins:
+  - search
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - def_list
+  - tables
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - toc:
+      permalink: true
+
+extra_css:
+  - stylesheets/extra.css
+
+nav:
+  - Home: index.md
+  - "1. Foundations of RDM": modules/01-foundations/index.md
+  - "2. Data Organization & Documentation": modules/02-data-organization/index.md
+  - "3. Version Control with Git": modules/03-version-control/index.md
+  - "4. Collaboration with GitHub & GitLab": modules/04-collaboration/index.md
+  - "5. Data Standards & Interoperability": modules/05-data-standards/index.md
+  - "6. Ontologies & Semantic Technologies": modules/06-ontologies/index.md
+  - "7. Data Archiving & Publication": modules/07-archiving/index.md
+  - "8. Further Topics & Integration": modules/08-further-topics/index.md
+  - About & Contributing: about.md

@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "mkdocs-serve",
+      "runtimeExecutable": "C:\\Users\\smmcvoel\\Documents\\GitHub\\RDM-Website\\.venv\\Scripts\\python.exe",
+      "runtimeArgs": ["-m", "mkdocs", "serve"],
+      "port": 8000
+    }
+  ]
+}

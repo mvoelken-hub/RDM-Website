@@ -1,0 +1,6 @@
+# Pinned to a specific version so the built site is reproducible.
+# Material for MkDocs enters maintenance-only mode on 2026-11-05
+# (https://github.com/squidfunk/mkdocs-material/issues/8523); re-check
+# https://pypi.org/project/mkdocs-material/ before then and decide whether
+# to update the pin or plan a migration to its successor, Zensical.
+mkdocs-material==9.7.7

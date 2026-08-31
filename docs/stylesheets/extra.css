@@ -1,0 +1,21 @@
+.badge {
+  display: inline-block;
+  padding: 0.1em 0.6em;
+  border-radius: 1em;
+  font-size: 0.75em;
+  font-weight: 700;
+  line-height: 1.6;
+  color: white;
+}
+
+.badge--mandatory {
+  background-color: #c62828;
+}
+
+.badge--recommended {
+  background-color: #1565c0;
+}
+
+.badge--optional {
+  background-color: #2e7d32;
+}
