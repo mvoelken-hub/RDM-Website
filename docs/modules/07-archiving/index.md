@@ -65,7 +65,7 @@ Repositories commonly allow a time-limited access restriction, an embargo, until
 
 The Data Citation Index is a commercial service that indexes datasets, data publications, and their citations in the literature. Altmetrics capture attention and usage beyond traditional citations, such as social media mentions, downloads, and discussion. Altmetrics services currently cover only a limited number of repositories, so disciplinary benchmarking for research data remains correspondingly limited.
 
-## Worked Example
+## Working Example
 
 The nickel-catalyst dataset from Module 1, by now organized following Module 2, version-controlled where it consists of analysis code following Module 3, and annotated with Voc4Cat terms following Module 5, is ready for deposit. Repo4Cat is the natural choice of repository, since it is built specifically for catalysis data and issues persistent identifiers integrated with PID4Cat, introduced in Module 6. During upload, the mandatory metadata fields, title, authors, description, and license, are filled in following DCAT-AP+, and the dataset receives a DOI. Citing it afterward follows the standard format: for instance, "Author, A. (2026). Nickel-alumina hydrogenation dataset. Version 1. Repo4Cat. https://doi.org/[identifier]."
 
