@@ -33,7 +33,7 @@ Automated workflows still need documentation: which steps ran, which software an
 
 ### Case Studies
 
-Seeing the modules of this site applied to an actual catalysis dataset, a metadata extraction workflow or a Repo4Cat deposit for instance, is more instructive than the abstract principles on their own, since it shows how the individual modules connect in a single, concrete project.
+Seeing the modules of this site applied to an actual catalysis dataset, a metadata extraction workflow or a [Repo4Cat](https://nfdi4cat.org/Services/Repo4Cat.html) deposit for instance, is more instructive than the abstract principles on their own, since it shows how the individual modules connect in a single, concrete project.
 
 ### Common Challenges and Solutions
 
@@ -41,7 +41,7 @@ Typical obstacles include inconsistent file naming that needs to be reconciled a
 
 ### Community Standards and Best Practices
 
-Community-developed standards, such as Voc4Cat, DCAT-AP+, and Reac4Cat, tend to be more practical than purely generic standards, since domain experts help develop them directly. Many of these tools are developed openly and welcome contributions and feedback from the community that uses them, rather than being maintained as closed, one-way specifications.
+Community-developed standards, such as [Voc4Cat](https://nfdi4cat.org/Services/Voc4Cat.html), [DCAT-AP+](https://nfdi4cat.org/Services/DCAT_AP_-p-78.html), and [Reac4Cat](https://github.com/AleSteB/Reac4Cat), tend to be more practical than purely generic standards, since domain experts help develop them directly. Many of these tools are developed openly and welcome contributions and feedback from the community that uses them, rather than being maintained as closed, one-way specifications.
 
 ### FAIR-ifying Existing Datasets
 

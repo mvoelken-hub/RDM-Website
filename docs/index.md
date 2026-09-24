@@ -4,7 +4,7 @@ description: Getting started with Research Data Management.
 
 # Research Data Management
 
-This site is an onboarding guide to Research Data Management (RDM) for anyone interested in the topic and looking for a starting point. It is built around eight modules that move from foundational concepts to more advanced topics, and it combines general RDM knowledge with concrete tools and standards used in catalysis research, such as Voc4Cat, DCAT-AP+, Repo4Cat, PID4Cat, and Reac4Cat. No prior background in data management is assumed.
+This site is an onboarding guide to Research Data Management (RDM) for anyone interested in the topic and looking for a starting point. It is built around eight modules that move from foundational concepts to more advanced topics, and it combines general RDM knowledge with concrete tools and standards used in catalysis research, such as [Voc4Cat](https://nfdi4cat.org/Services/Voc4Cat.html), [DCAT-AP+](https://nfdi4cat.org/Services/DCAT_AP_-p-78.html), [Repo4Cat](https://nfdi4cat.org/Services/Repo4Cat.html), [PID4Cat](https://nfdi4cat.org/Services/pid4cat.html), and [Reac4Cat](https://github.com/AleSteB/Reac4Cat). No prior background in data management is assumed.
 
 ## Why this matters
 

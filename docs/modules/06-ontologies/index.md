@@ -27,11 +27,11 @@ A class is a category or concept within a domain, such as "catalyst" or "reactio
 
 ### Use Cases in Research
 
-Reac4Cat is an ontology developed for NFDI4Cat that describes and reasons over chemical reactions with a particular focus on catalysis. It applies ontological description logic within graph databases to represent complex data relationships and draw logical conclusions from them, and has been published in Datenbank-Spektrum.
+[Reac4Cat](https://github.com/AleSteB/Reac4Cat) is an ontology developed for NFDI4Cat that describes and reasons over chemical reactions with a particular focus on catalysis. It applies ontological description logic within graph databases to represent complex data relationships and draw logical conclusions from them, and has been published in Datenbank-Spektrum.
 
 ## Ontology Languages and Tools
 
-RDF, the Resource Description Framework, is the basic format of the semantic web: knowledge is represented as triples of subject, predicate, and object, with the subject and predicate expressed as URIs so statements can be referenced unambiguously anywhere. OWL, the Web Ontology Language, extends RDF and RDFS with considerably more expressive ways to describe classes and properties, such as disjoint classes, logical combinations, and reflexivity of relations. An OWL ontology consists of axioms, statements about classes and properties, and facts, statements about concrete individuals. SKOS, the Simple Knowledge Organization System, is lighter weight than OWL and intended for simpler hierarchical structures such as taxonomies and thesauri. It can be used on its own or combined with OWL, the approach Voc4Cat, itself SKOS-based, follows. Protégé is a free, open-source ontology editor from Stanford University supporting the full OWL 2.0 standard, covering the entire ontology lifecycle from modeling through reasoning to querying and collaboration, available both as a desktop application and, as WebProtégé, a browser-based, collaborative version with sharing, comments, and version history.
+RDF, the Resource Description Framework, is the basic format of the semantic web: knowledge is represented as triples of subject, predicate, and object, with the subject and predicate expressed as URIs so statements can be referenced unambiguously anywhere. OWL, the Web Ontology Language, extends RDF and RDFS with considerably more expressive ways to describe classes and properties, such as disjoint classes, logical combinations, and reflexivity of relations. An OWL ontology consists of axioms, statements about classes and properties, and facts, statements about concrete individuals. SKOS, the Simple Knowledge Organization System, is lighter weight than OWL and intended for simpler hierarchical structures such as taxonomies and thesauri. It can be used on its own or combined with OWL, the approach [Voc4Cat](https://nfdi4cat.org/Services/Voc4Cat.html), itself SKOS-based, follows. Protégé is a free, open-source ontology editor from Stanford University supporting the full OWL 2.0 standard, covering the entire ontology lifecycle from modeling through reasoning to querying and collaboration, available both as a desktop application and, as WebProtégé, a browser-based, collaborative version with sharing, comments, and version history.
 
 ## Linked Data
 
@@ -41,7 +41,7 @@ The underlying idea of linked data is to avoid publishing data in isolation. Ins
 
 ### URIs and Persistent Identifiers
 
-A persistent identifier (PID) is a durable, externally maintained link that, unlike an ordinary URL, remains stable over the long term. A DOI identifies an object, an article or a dataset for instance, while an ORCID identifies a person, a researcher, across an entire career. PID4Cat is a catalysis-specific example: a Handle-based PID system developed by NFDI4Cat for samples, instruments, and similar entities, with its own API and a LinkML-based data model, integrated with Repo4Cat.
+A persistent identifier (PID) is a durable, externally maintained link that, unlike an ordinary URL, remains stable over the long term. A DOI identifies an object, an article or a dataset for instance, while an ORCID identifies a person, a researcher, across an entire career. [PID4Cat](https://nfdi4cat.org/Services/pid4cat.html) is a catalysis-specific example: a Handle-based PID system developed by NFDI4Cat for samples, instruments, and similar entities, with its own API and a LinkML-based data model, integrated with Repo4Cat.
 
 ### SPARQL Queries
 

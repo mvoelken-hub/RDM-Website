@@ -23,7 +23,7 @@ CSV suits large, uniformly structured tabular datasets well. It is simple, but c
 
 ### Discipline-Specific Standards
 
-Beyond these generic formats, discipline-specific data standards exist as well, such as EnzymeML for enzyme kinetics data. For catalysis research, DCAT-AP+ and its associated subschemas, introduced in Module 2, serve the same purpose, alongside Voc4Cat and the other NFDI4Cat tools discussed below and throughout this site.
+Beyond these generic formats, discipline-specific data standards exist as well, such as EnzymeML for enzyme kinetics data. For catalysis research, [DCAT-AP+](https://nfdi4cat.org/Services/DCAT_AP_-p-78.html) and its associated subschemas, introduced in Module 2, serve the same purpose, alongside [Voc4Cat](https://nfdi4cat.org/Services/Voc4Cat.html) and the other NFDI4Cat tools discussed below and throughout this site.
 
 ### Format Conversion and Preservation
 
