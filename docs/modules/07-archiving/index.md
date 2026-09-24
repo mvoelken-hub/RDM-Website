@@ -33,7 +33,7 @@ Long-term archiving is the practice of keeping research data available and inter
 
 ### Types of Repositories
 
-Discipline-specific repositories are tailored to a single field, Repo4Cat for catalysis research being one example. Institutional repositories are operated by a university or research organization, TUDOdata again being one example. Generic, discipline-independent repositories accept data regardless of field, Zenodo being the most prominent example.
+Discipline-specific repositories are tailored to a single field, [Repo4Cat](https://nfdi4cat.org/Services/Repo4Cat.html) for catalysis research being one example. Institutional repositories are operated by a university or research organization, TUDOdata again being one example. Generic, discipline-independent repositories accept data regardless of field, Zenodo being the most prominent example.
 
 ### Choosing a Repository
 
@@ -67,7 +67,7 @@ The Data Citation Index is a commercial service that indexes datasets, data publ
 
 ## Working Example
 
-The nickel-catalyst dataset from Module 1, by now organized following Module 2, version-controlled where it consists of analysis code following Module 3, and annotated with Voc4Cat terms following Module 5, is ready for deposit. Repo4Cat is the natural choice of repository, since it is built specifically for catalysis data and issues persistent identifiers integrated with PID4Cat, introduced in Module 6. During upload, the mandatory metadata fields, title, authors, description, and license, are filled in following DCAT-AP+, and the dataset receives a DOI. Citing it afterward follows the standard format: for instance, "Author, A. (2026). Nickel-alumina hydrogenation dataset. Version 1. Repo4Cat. https://doi.org/[identifier]."
+The nickel-catalyst dataset from Module 1, by now organized following Module 2, version-controlled where it consists of analysis code following Module 3, and annotated with [Voc4Cat](https://nfdi4cat.org/Services/Voc4Cat.html) terms following Module 5, is ready for deposit. Repo4Cat is the natural choice of repository, since it is built specifically for catalysis data and issues persistent identifiers integrated with [PID4Cat](https://nfdi4cat.org/Services/pid4cat.html), introduced in Module 6. During upload, the mandatory metadata fields, title, authors, description, and license, are filled in following [DCAT-AP+](https://nfdi4cat.org/Services/DCAT_AP_-p-78.html), and the dataset receives a DOI. Citing it afterward follows the standard format: for instance, "Author, A. (2026). Nickel-alumina hydrogenation dataset. Version 1. Repo4Cat. https://doi.org/[identifier]."
 
 ## Step-by-Step Guide: Choosing and Uploading to a Repository
 
