@@ -5,7 +5,7 @@ started with the topic. Built with [MkDocs](https://www.mkdocs.org/) and
 [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/), deployed
 automatically to GitHub Pages on every push to `main`.
 
-**Live site:** https://mvoelken-hub.github.io/RDM-Website/
+**Live site:** [https://nfdi4cat.github.io/RDM-Onboarding-Website/](https://nfdi4cat.github.io/RDM-Onboarding-Website/)
 
 ## Contributing
 
