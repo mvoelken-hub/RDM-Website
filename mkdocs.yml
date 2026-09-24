@@ -1,9 +1,9 @@
 site_name: "RDM Onboarding"
 site_description: "Onboarding guide to Research Data Management for anyone getting started with the topic."
-site_url: "https://mvoelken-hub.github.io/RDM-Website/"
+site_url: "https://nfdi4cat.github.io/RDM-Onboarding-Website/"
 
-repo_url: "https://github.com/mvoelken-hub/RDM-Website"
-repo_name: "mvoelken-hub/RDM-Website"
+repo_url: "https://github.com/nfdi4cat/RDM-Onboarding-Website"
+repo_name: "nfdi4cat/RDM-Onboarding-Website"
 edit_uri: "edit/main/docs/"
 
 docs_dir: docs
