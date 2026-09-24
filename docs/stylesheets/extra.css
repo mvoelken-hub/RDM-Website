@@ -25,3 +25,16 @@
   --md-primary-fg-color--light: #8fc73e;
   --md-primary-fg-color--dark: #8fc73e;
 }
+
+.md-header__button.md-logo {
+  background-color: white;
+  border-radius: 8px;
+  padding: 4px 8px;
+  display: flex;
+  align-items: center;
+}
+
+.md-header__button.md-logo img {
+  height: 28px;
+  width: auto;
+}
