@@ -79,3 +79,6 @@ nav:
   - "7. Data Archiving & Publication": modules/07-archiving/index.md
   - "8. Further Topics & Integration": modules/08-further-topics/index.md
   - About & Contributing: about.md
+
+extra:
+  homepage: https://nfdi4cat.org
